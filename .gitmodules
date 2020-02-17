@@ -1,0 +1,3 @@
+[submodule "MACOSFramework"]
+	path = MACOSFramework
+	url = https://github.com/jdstmporter/BLE-remote-control.git
